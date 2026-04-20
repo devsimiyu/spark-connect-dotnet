@@ -46,5 +46,6 @@
 
     <ItemGroup>
       <Folder Update="..\..\Spark.Connect.Dotnet.Delta\delta\connect" />
+      <Folder Update="..\..\Spark.Connect.Dotnet.Graph\graph\connect" />
     </ItemGroup>
 </Project>
